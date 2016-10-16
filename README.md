@@ -7,7 +7,7 @@ Egy egyszerű többszereplős játékot fogok megvalósítani, amelyben céhek e
  - A céhvezető látja minden tagnak a tárgyait.
  - A céhvezető/helyettes az adományokkal bónuszokat adhatnak a céhtagoknak.
  - A céhvezető/helyettes a felhasználókat képes meghívni a céhbe, és a csatlakozási kéréseket eltudja fogadni/utasítani.
- - A céhvezető/helyettes eltválolíthatja a tagokat.
+ - A céhvezető/helyettes eltávolíthatja a tagokat, ha még nem kezdődött el a játék.
  - A céhvezető/helyettes lekérdezheti, hogy a tagok hol tartanak a küldetésekben.
  - A tagok tudnak adományozni a céhüknek.
  - A tagok vehetnek tárgyakat, és eladhatják azokat.
