@@ -5,7 +5,7 @@ Egy egyszerű többszereplős játékot fogok megvalósítani, amelyben céhek e
 ## Funkcionális követelmények
 
  - A céhvezető látja minden tagnak a tárgyait.
- - A céhvezető/helyettes az adományokkal bónuszokat adhatnak a céhtagoknak.
+ - A céhvezető/helyettes az adományokkal bónuszokat vehetnek a céhtagoknak.
  - A céhvezető/helyettes a felhasználókat képes meghívni a céhbe, és a csatlakozási kéréseket eltudja fogadni/utasítani.
  - A céhvezető/helyettes eltávolíthatja a tagokat, ha még nem kezdődött el a játék.
  - A céhvezető/helyettes lekérdezheti, hogy a tagok hol tartanak a küldetésekben.
