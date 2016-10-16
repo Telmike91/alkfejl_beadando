@@ -14,7 +14,7 @@ Egy egyszerű többszereplős játékot fogok megvalósítani, amelyben céhek e
  - A tagok frissíthetik a saját maguk attribútumait.
  - A tagok naponta elvégezhetnek egy egyszerű küldetést.
  - A regisztrált felhasználó új céhet hozhat létre, ha még nincs benne egyikben sem.
- - A regisztrált felhasználó kérést intézhet egy céhhez, hogy csatlakozni szeretne, ha még csatlakozott egyhez.
+ - A regisztrált felhasználó kérést intézhet egy céhhez, hogy csatlakozni szeretne, ha még nem csatlakozott egyhez.
  - A vendégek láthatják a céheket, illetve tagjainak szintjét/nevét.
  
 ## Nem funkcionális követelmények
