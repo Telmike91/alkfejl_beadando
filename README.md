@@ -20,5 +20,6 @@ Egy egyszerű többszereplős játékot fogok megvalósítani, amelyben céhek e
 ## Nem funkcionális követelmények
  
  - Felhasználóbarát, könnyű kezelés
+ - Változatos történetek
  - Gyors működés
  - Biztonságos
